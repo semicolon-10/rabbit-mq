@@ -35,6 +35,6 @@ Before running the application, make sure you have the following installed:
     cargo run
     ```
 
-# Subscribe to my youtube Channel 
+# Subscribe to my youtube Channel 🎥
 
 [Semicolon](https://www.youtube.com/@Semicolon10)
